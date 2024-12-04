@@ -454,7 +454,7 @@ Antes de lançar uma nova seção ou série especial, o G1 aposta em pesquisas e
               </svg>
               Flowbite    
           </a>
-          <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© 2021-2022 <a href="#" class="hover:underline">Flowbite™</a>. All Rights Reserved.
+          <span class="block text-sm text-center text-gray-500 dark:text-gray-400">© 2021-2022 <a href="#" class="hover:underline">Flowbite.™</a>. All Rights Reserved.
           </span>
           <ul class="flex justify-center mt-5 space-x-5">
               <li>
